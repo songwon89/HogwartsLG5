@@ -2,6 +2,7 @@
 
 ## 作业列表
 - [Python脚本作业](test_git/src/demo.py)
+- [pytest作业1](test_pytest/calculator)
 
 ## 霍格沃兹测试学院
 - [测试人论坛](https://ceshiren.com)
