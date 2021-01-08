@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert None == '请输入数字！'\n  +None\n  -'请输入数字！'",
+      "children" : [ {
+        "name" : "test_add[except]",
+        "uid" : "976b821d7cad8c3c",
+        "parentUid" : "ab416d1d91082c1d4d2ffbd9bc00668c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1610117962231,
+          "stop" : 1610117962231,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "['', 5, '请输入数字！']" ]
+      } ],
+      "uid" : "ab416d1d91082c1d4d2ffbd9bc00668c"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
