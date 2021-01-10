@@ -1,3 +1,5 @@
 /venv/
 /.idea/
 /test/
+/test_pageobject/testcase/geckodriver.log
+/test_selenium/geckodriver.log
