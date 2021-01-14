@@ -4,7 +4,8 @@
 - [Python脚本作业](test_git/src/demo.py)
 - [pytest作业1](test_pytest/calculator/test_cal.py)
 - [pytest作业2](test_pytest/calculator/test_cal_new.py)
-- [selenium作业1](test_selenium/test_cookie/test_cookie.py)
+- [web企业微信作业1](test_selenium/test_cookie/test_cookie.py)
+- [web企业微信作业2](test_pageobj)
 
 ## 霍格沃兹测试学院
 - [测试人论坛](https://ceshiren.com)
