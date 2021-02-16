@@ -6,6 +6,7 @@
 - [pytest作业2](test_pytest/calculator/test_cal_new.py)
 - [web企业微信作业1](test_selenium/test_cookie/test_cookie.py)
 - [web企业微信作业2](test_pageobj)
+- [app企业微信作业1](test_appium/test_add_member.py)
 
 ## 霍格沃兹测试学院
 - [测试人论坛](https://ceshiren.com)
