@@ -7,6 +7,7 @@
 - [web企业微信作业1](test_selenium/test_cookie/test_cookie.py)
 - [web企业微信作业2](test_pageobj)
 - [app企业微信作业1](test_appium/test_add_member.py)
+- [app企业微信作业2](test_appium/test_wechat)
 
 ## 霍格沃兹测试学院
 - [测试人论坛](https://ceshiren.com)
