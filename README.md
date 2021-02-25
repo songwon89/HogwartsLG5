@@ -8,6 +8,7 @@
 - [web企业微信作业2](test_pageobj)
 - [app企业微信作业1](test_appium/test_add_member.py)
 - [app企业微信作业2](test_appium/test_wechat)
+- [打造自己的测试框架作业1](test_xueqiu)
 
 ## 霍格沃兹测试学院
 - [测试人论坛](https://ceshiren.com)
