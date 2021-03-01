@@ -7,5 +7,6 @@ from test_xueqiu.page.search_page import SearchPage
 
 class MarketPage(BasePage):
     def goto_search_page(self):
-        self.find_click((MobileBy.ID, 'com.xueqiu.android:id/action_search'))
+        self.run_steps('../page/market_page.yaml', 'goto_search_page')
+        # self.find_click((MobileBy.ID, 'com.xueqiu.android:id/action_search'))
         return SearchPage(self.driver)
