@@ -10,6 +10,7 @@
 - [app企业微信作业2](test_appium/test_wechat)
 - [打造自己的测试框架作业1](test_xueqiu)
 - [打造自己的测试框架作业2](test_xueqiu)
+- [企业微信接口测试作业1](test_requests/test_demo.py)
 
 ## 霍格沃兹测试学院
 - [测试人论坛](https://ceshiren.com)

@@ -23,3 +23,5 @@ six==1.15.0
 toml==0.10.2
 urllib3==1.26.2
 Appium-Python-Client~=1.0.2
+mitmproxy~=6.0.2
+requests~=2.25.1
