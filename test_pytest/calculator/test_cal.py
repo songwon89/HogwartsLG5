@@ -4,7 +4,7 @@
 import pytest
 import yaml
 
-from calculator.calculator import Calculator
+from test_pytest.calculator.calculator import Calculator
 
 
 def get_datas():

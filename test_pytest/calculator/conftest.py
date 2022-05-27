@@ -5,7 +5,7 @@ import os
 import pytest
 import yaml
 
-from calculator.calculator import Calculator
+from test_pytest.calculator.calculator import Calculator
 
 yaml_file_path = os.path.dirname(__file__) + "/test_data.yml"
 with open(yaml_file_path, encoding='utf-8') as f:
