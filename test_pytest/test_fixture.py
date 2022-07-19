@@ -6,6 +6,7 @@ import pytest
 # fixture是pytest的一个外壳函数，可以模拟setup和teardown的操作
 # yield之前的操作相当于setup，yield之后的操作相当于teardown
 # yield相当于return，如果需要返回数据，直接放在yield后面
+# 2种方法使用fixture，测试用例1和测试用例4
 
 # 创建一个登录的fixture方法
 @pytest.fixture()
