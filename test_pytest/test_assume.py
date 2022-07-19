@@ -8,5 +8,5 @@ def test_a():
     # assert False == True
     # assert 2 == 3
     pytest.assume(1 == 2)
-    pytest.assume(True == True)
+    pytest.assume(True is True)
     pytest.assume(2 == 3)

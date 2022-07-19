@@ -5,6 +5,7 @@ import yaml
 
 def handle_black(fun):
     def run(*args, **kwargs):
+        # 第0个参数self
         instance = args[0]
         with open('../black_list.yaml', 'r', encoding='utf-8') as f:
             black_list = yaml.safe_load(f)
